@@ -5,7 +5,7 @@ version = "1.1.2"
 
 description = "tweedledee"
 readme = "neha is a lazy bum"
-license = "nolicenceimbroke"
+license = "MIT"
 authors = [
   {name = "Michael Rodriguez", email = "MRod3355@gmail.com"},
   {name = "Billy Joel", email = "bj@gmail.com"}
