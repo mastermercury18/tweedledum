@@ -1,7 +1,7 @@
 [project]
 requires-python = ">=3.6"
-name = "lowtaperfade"
-version = "69.69.69"
+name = "tweedledum"
+version = "1.1.2"
 
 description = "tweedledee"
 
