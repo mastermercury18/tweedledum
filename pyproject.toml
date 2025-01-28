@@ -1,6 +1,8 @@
 [project]
 requires-python = ">=3.6"
 name = "lowtaperfade"
+version = "69.69.69"
+dynamic = ["version"]
 
 [build-system]
 requires = [
