@@ -3,10 +3,6 @@ requires-python = ">=3.6"
 name = "lowtaperfade"
 version = "69.69.69"
 
-authors = [
-    {
-    name = "Phil Swift", email="swifter@gmail.com"
-    }]
 description = "tweedledee"
 
 [build-system]
