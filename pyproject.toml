@@ -18,3 +18,5 @@ requires = [
     "ninja",
     "scikit-build>=0.12.0",
 ]
+
+build-backend = "setuptools.build_meta"
